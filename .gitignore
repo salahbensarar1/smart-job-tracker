@@ -1,0 +1,20 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+flutter_app/.idea/
+flutter_app/.vscode/
+
+# Python
+__pycache__/
+*.pyc
+backend/.env
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+
+# General
+.env
+.DS_Store
